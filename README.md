@@ -7,3 +7,4 @@ https://github.com/ravthiru/keycloak-recepies
 
 
 ## How to run 
+Check User attributes folder
